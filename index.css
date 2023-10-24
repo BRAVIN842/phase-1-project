@@ -26,3 +26,8 @@ body {
     flex-direction: column;
     margin: 10px;
 }
+
+.amiibo-image {
+    max-height: 150px;
+    object-fit: contain;
+}
