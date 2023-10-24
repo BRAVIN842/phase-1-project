@@ -35,3 +35,11 @@ body {
 .comments {
     margin-top: 10px;
 }
+
+.like-button {
+    background-color: #ccc;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
