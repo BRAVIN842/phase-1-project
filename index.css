@@ -17,3 +17,12 @@ body {
     justify-content: center;
     gap: 20px;
 }
+
+.amiibo-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+}
