@@ -43,3 +43,7 @@ body {
     cursor: pointer;
 }
 
+.like-button.liked {
+    background-color: red;
+    color: white;
+}
