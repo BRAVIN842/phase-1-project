@@ -5,4 +5,19 @@ document.addEventListener("DOMContentLoaded",()=>{
 
     //Fetch data from API
     fetch("http://localhost:3000/amiibo")
+        .then(response => response.json())
+        .then(data => {
+            //Data for characters
+            const amiiboData = data;
+
+            //Function to render comments
+            function renderComments(parent , comments) {
+                parent.innerHTML = "";
+                comments.forEach(commentText => {
+                    const comment = document.createElement("p");
+                    comment.textContent = commentText;
+                    parent.appendChild(comment);
+                });
+            }
+        })
 })
