@@ -5,3 +5,8 @@ body {
     margin: 0;
 }
 
+#header {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
