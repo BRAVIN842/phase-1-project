@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     const filterSelect = document.getElementById("filter-select");
 
     //Fetch data from API
-    fetch("https://my-json-server.typicode.com/BRAVIN842/phase-1-project/amiibo")
+    fetch("http://localhost:3000/amiibo")
         .then(response => response.json())
         .then(data => {
             //Data for characters
