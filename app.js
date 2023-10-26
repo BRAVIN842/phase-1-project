@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     const filterSelect = document.getElementById("filter-select");
 
     //Fetch data from API
-    fetch("http://localhost:3000/amiibo")
+    fetch("https://www.amiiboapi.com/api/amiibo/?")
         .then(response => response.json())
         .then(data => {
             //Data for characters
