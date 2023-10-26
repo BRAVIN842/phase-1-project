@@ -9951,7 +9951,3510 @@
         },
         "tail": "026b0e02",
         "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c00401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c00401-026c0e02.png",
+        "name": "Mario - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "026c0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c00501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c00501-026d0e02.png",
+        "name": "Mario - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "026d0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c10101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c10101-026e0e02.png",
+        "name": "Luigi - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "026e0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c10201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c10201-026f0e02.png",
+        "name": "Luigi - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "026f0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c10301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c10301-02700e02.png",
+        "name": "Luigi - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02700e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c10401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c10401-02710e02.png",
+        "name": "Luigi - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02710e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c10501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c10501-02720e02.png",
+        "name": "Luigi - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02720e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c20101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c20101-02730e02.png",
+        "name": "Peach - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02730e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c20201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c20201-02740e02.png",
+        "name": "Peach - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02740e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c20301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c20301-02750e02.png",
+        "name": "Peach - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02750e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c20401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c20401-02760e02.png",
+        "name": "Peach - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02760e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c20501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c20501-02770e02.png",
+        "name": "Peach - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02770e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Daisy",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c30101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c30101-02780e02.png",
+        "name": "Daisy - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02780e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Daisy",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c30201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c30201-02790e02.png",
+        "name": "Daisy - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02790e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Daisy",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c30301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c30301-027a0e02.png",
+        "name": "Daisy - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027a0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Daisy",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c30401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c30401-027b0e02.png",
+        "name": "Daisy - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027b0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Daisy",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c30501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c30501-027c0e02.png",
+        "name": "Daisy - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027c0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Yoshi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c40101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c40101-027d0e02.png",
+        "name": "Yoshi - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027d0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Yoshi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c40201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c40201-027e0e02.png",
+        "name": "Yoshi - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027e0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Yoshi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c40301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c40301-027f0e02.png",
+        "name": "Yoshi - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "027f0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Yoshi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c40401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c40401-02800e02.png",
+        "name": "Yoshi - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02800e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Yoshi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c40501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c40501-02810e02.png",
+        "name": "Yoshi - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02810e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Wario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c50101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c50101-02820e02.png",
+        "name": "Wario - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02820e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Wario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c50201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c50201-02830e02.png",
+        "name": "Wario - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02830e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Wario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c50301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c50301-02840e02.png",
+        "name": "Wario - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02840e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Wario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c50401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c50401-02850e02.png",
+        "name": "Wario - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02850e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Wario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c50501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c50501-02860e02.png",
+        "name": "Wario - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02860e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Waluigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c60101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c60101-02870e02.png",
+        "name": "Waluigi - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02870e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Waluigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c60201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c60201-02880e02.png",
+        "name": "Waluigi - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02880e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Waluigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c60301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c60301-02890e02.png",
+        "name": "Waluigi - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02890e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Waluigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c60401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c60401-028a0e02.png",
+        "name": "Waluigi - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028a0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Waluigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c60501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c60501-028b0e02.png",
+        "name": "Waluigi - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028b0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Donkey Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c70101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c70101-028c0e02.png",
+        "name": "Donkey Kong - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028c0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Donkey Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c70201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c70201-028d0e02.png",
+        "name": "Donkey Kong - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028d0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Donkey Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c70301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c70301-028e0e02.png",
+        "name": "Donkey Kong - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028e0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Donkey Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c70401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c70401-028f0e02.png",
+        "name": "Donkey Kong - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "028f0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Donkey Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c70501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c70501-02900e02.png",
+        "name": "Donkey Kong - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02900e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Diddy Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c80101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c80101-02910e02.png",
+        "name": "Diddy Kong - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02910e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Diddy Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c80201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c80201-02920e02.png",
+        "name": "Diddy Kong - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02920e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Diddy Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c80301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c80301-02930e02.png",
+        "name": "Diddy Kong - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02930e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Diddy Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c80401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c80401-02940e02.png",
+        "name": "Diddy Kong - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02940e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Diddy Kong",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c80501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c80501-02950e02.png",
+        "name": "Diddy Kong - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02950e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c90101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c90101-02960e02.png",
+        "name": "Bowser - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02960e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c90201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c90201-02970e02.png",
+        "name": "Bowser - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02970e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c90301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c90301-02980e02.png",
+        "name": "Bowser - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02980e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c90401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c90401-02990e02.png",
+        "name": "Bowser - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02990e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09c90501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09c90501-029a0e02.png",
+        "name": "Bowser - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029a0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser Jr.",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ca0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ca0101-029b0e02.png",
+        "name": "Bowser Jr. - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029b0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser Jr.",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ca0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ca0201-029c0e02.png",
+        "name": "Bowser Jr. - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029c0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser Jr.",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ca0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ca0301-029d0e02.png",
+        "name": "Bowser Jr. - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029d0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser Jr.",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ca0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ca0401-029e0e02.png",
+        "name": "Bowser Jr. - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029e0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Bowser Jr.",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ca0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ca0501-029f0e02.png",
+        "name": "Bowser Jr. - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "029f0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Boo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cb0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cb0101-02a00e02.png",
+        "name": "Boo - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a00e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Boo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cb0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cb0201-02a10e02.png",
+        "name": "Boo - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a10e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Boo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cb0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cb0301-02a20e02.png",
+        "name": "Boo - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a20e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Boo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cb0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cb0401-02a30e02.png",
+        "name": "Boo - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a30e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Boo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cb0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cb0501-02a40e02.png",
+        "name": "Boo - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a40e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cc0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cc0101-02a50e02.png",
+        "name": "Baby Mario - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a50e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cc0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cc0201-02a60e02.png",
+        "name": "Baby Mario - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a60e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cc0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cc0301-02a70e02.png",
+        "name": "Baby Mario - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a70e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cc0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cc0401-02a80e02.png",
+        "name": "Baby Mario - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a80e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cc0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cc0501-02a90e02.png",
+        "name": "Baby Mario - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02a90e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cd0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cd0101-02aa0e02.png",
+        "name": "Baby Luigi - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02aa0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cd0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cd0201-02ab0e02.png",
+        "name": "Baby Luigi - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02ab0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cd0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cd0301-02ac0e02.png",
+        "name": "Baby Luigi - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02ac0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cd0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cd0401-02ad0e02.png",
+        "name": "Baby Luigi - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02ad0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Baby Luigi",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cd0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cd0501-02ae0e02.png",
+        "name": "Baby Luigi - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02ae0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Birdo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ce0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ce0101-02af0e02.png",
+        "name": "Birdo - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02af0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Birdo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ce0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ce0201-02b00e02.png",
+        "name": "Birdo - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b00e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Birdo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ce0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ce0301-02b10e02.png",
+        "name": "Birdo - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b10e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Birdo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ce0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ce0401-02b20e02.png",
+        "name": "Birdo - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b20e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Birdo",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09ce0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09ce0501-02b30e02.png",
+        "name": "Birdo - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b30e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Rosalina",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cf0101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cf0101-02b40e02.png",
+        "name": "Rosalina - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b40e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Rosalina",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cf0201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cf0201-02b50e02.png",
+        "name": "Rosalina - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b50e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Rosalina",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cf0301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cf0301-02b60e02.png",
+        "name": "Rosalina - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b60e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Rosalina",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cf0401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cf0401-02b70e02.png",
+        "name": "Rosalina - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b70e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Rosalina",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09cf0501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09cf0501-02b80e02.png",
+        "name": "Rosalina - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b80e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Metal Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d00101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d00101-02b90e02.png",
+        "name": "Metal Mario - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02b90e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Metal Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d00201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d00201-02ba0e02.png",
+        "name": "Metal Mario - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02ba0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Metal Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d00301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d00301-02bb0e02.png",
+        "name": "Metal Mario - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02bb0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Metal Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d00401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d00401-02bc0e02.png",
+        "name": "Metal Mario - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02bc0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Metal Mario",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d00501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d00501-02bd0e02.png",
+        "name": "Metal Mario - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02bd0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Pink Gold Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d10101",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d10101-02be0e02.png",
+        "name": "Pink Gold Peach - Soccer",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02be0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Pink Gold Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d10201",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d10201-02bf0e02.png",
+        "name": "Pink Gold Peach - Baseball",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02bf0e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Pink Gold Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d10301",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d10301-02c00e02.png",
+        "name": "Pink Gold Peach - Tennis",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02c00e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Pink Gold Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d10401",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d10401-02c10e02.png",
+        "name": "Pink Gold Peach - Golf",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02c10e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Mario Sports Superstars",
+        "character": "Pink Gold Peach",
+        "gameSeries": "Mario Sports Superstars",
+        "head": "09d10501",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_09d10501-02c20e02.png",
+        "name": "Pink Gold Peach - Horse Racing",
+        "release": {
+          "au": "2017-03-11",
+          "eu": "2017-03-10",
+          "jp": "2017-03-30",
+          "na": "2017-03-24"
+        },
+        "tail": "02c20e02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Orville",
+        "gameSeries": "Animal Crossing",
+        "head": "0a000001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a000001-03ab0502.png",
+        "name": "Orville",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03ab0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Wilbur",
+        "gameSeries": "Animal Crossing",
+        "head": "0a010001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a010001-03ac0502.png",
+        "name": "Wilbur",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03ac0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "C.J.",
+        "gameSeries": "Animal Crossing",
+        "head": "0a020001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a020001-03b30502.png",
+        "name": "C.J.",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03b30502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Flick",
+        "gameSeries": "Animal Crossing",
+        "head": "0a030001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a030001-03b40502.png",
+        "name": "Flick",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03b40502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Daisy Mae",
+        "gameSeries": "Animal Crossing",
+        "head": "0a040001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a040001-03b50502.png",
+        "name": "Daisy Mae",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03b50502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Harvey",
+        "gameSeries": "Animal Crossing",
+        "head": "0a050001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a050001-03b80502.png",
+        "name": "Harvey",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03b80502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Wisp",
+        "gameSeries": "Animal Crossing",
+        "head": "0a060001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a060001-03ba0502.png",
+        "name": "Wisp",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03ba0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Niko",
+        "gameSeries": "Animal Crossing",
+        "head": "0a070001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a070001-03bc0502.png",
+        "name": "Niko",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03bc0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Wardell",
+        "gameSeries": "Animal Crossing",
+        "head": "0a080001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a080001-03bd0502.png",
+        "name": "Wardell",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03bd0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Sherb",
+        "gameSeries": "Animal Crossing",
+        "head": "0a090001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a090001-03c00502.png",
+        "name": "Sherb",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c00502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Megan",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0a0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0a0001-03c10502.png",
+        "name": "Megan",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c10502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Dom",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0b0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0b0001-03c20502.png",
+        "name": "Dom",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c20502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Audie",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0c0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0c0001-03c30502.png",
+        "name": "Audie",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c30502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Cyd",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0d0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0d0001-03c40502.png",
+        "name": "Cyd",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c40502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Judy",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0e0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0e0001-03c50502.png",
+        "name": "Judy",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c50502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Raymond",
+        "gameSeries": "Animal Crossing",
+        "head": "0a0f0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a0f0001-03c60502.png",
+        "name": "Raymond",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c60502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Reneigh",
+        "gameSeries": "Animal Crossing",
+        "head": "0a100001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a100001-03c70502.png",
+        "name": "Reneigh",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c70502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Sasha",
+        "gameSeries": "Animal Crossing",
+        "head": "0a110001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a110001-03c80502.png",
+        "name": "Sasha",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c80502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Ione",
+        "gameSeries": "Animal Crossing",
+        "head": "0a120001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a120001-03c90502.png",
+        "name": "Ione",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03c90502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Tiansheng",
+        "gameSeries": "Animal Crossing",
+        "head": "0a130001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a130001-03ca0502.png",
+        "name": "Tiansheng",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03ca0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Shino",
+        "gameSeries": "Animal Crossing",
+        "head": "0a140001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a140001-03cb0502.png",
+        "name": "Shino",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03cb0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Marlo",
+        "gameSeries": "Animal Crossing",
+        "head": "0a150001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a150001-03cc0502.png",
+        "name": "Marlo",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03cc0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Petri",
+        "gameSeries": "Animal Crossing",
+        "head": "0a160001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a160001-03cd0502.png",
+        "name": "Petri",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03cd0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Cephalobot",
+        "gameSeries": "Animal Crossing",
+        "head": "0a170001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a170001-03ce0502.png",
+        "name": "Cephalobot",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03ce0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Quinn",
+        "gameSeries": "Animal Crossing",
+        "head": "0a180001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a180001-03cf0502.png",
+        "name": "Quinn",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03cf0502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Chabwick",
+        "gameSeries": "Animal Crossing",
+        "head": "0a190001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a190001-03d00502.png",
+        "name": "Chabwick",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d00502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Zoe",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1a0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1a0001-03d10502.png",
+        "name": "Zoe",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d10502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Ace",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1b0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1b0001-03d20502.png",
+        "name": "Ace",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d20502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Rio",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1c0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1c0001-03d30502.png",
+        "name": "Rio",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d30502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Frett",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1d0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1d0001-03d40502.png",
+        "name": "Frett",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d40502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Azalea",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1e0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1e0001-03d50502.png",
+        "name": "Azalea",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d50502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Roswell",
+        "gameSeries": "Animal Crossing",
+        "head": "0a1f0001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a1f0001-03d60502.png",
+        "name": "Roswell",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d60502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Animal Crossing",
+        "character": "Faith",
+        "gameSeries": "Animal Crossing",
+        "head": "0a200001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a200001-03d70502.png",
+        "name": "Faith",
+        "release": {
+          "au": "2021-11-05",
+          "eu": "2021-11-05",
+          "jp": "2021-11-05",
+          "na": "2021-11-05"
+        },
+        "tail": "03d70502",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Min Min",
+        "gameSeries": "ARMS",
+        "head": "0a400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_0a400000-041d0002.png",
+        "name": "Min Min",
+        "release": {
+          "au": "2022-04-29",
+          "eu": "2022-04-29",
+          "jp": "2022-04-29",
+          "na": "2022-04-29"
+        },
+        "tail": "041d0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Ivysaur",
+        "gameSeries": "Pokemon",
+        "head": "19020000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19020000-03830002.png",
+        "name": "Ivysaur",
+        "release": {
+          "au": "2019-09-20",
+          "eu": "2019-09-20",
+          "jp": "2019-09-20",
+          "na": "2019-09-20"
+        },
+        "tail": "03830002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Charizard",
+        "gameSeries": "Pokemon",
+        "head": "19060000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19060000-00240002.png",
+        "name": "Charizard",
+        "release": {
+          "au": "2015-04-25",
+          "eu": "2015-04-24",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "00240002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Squirtle",
+        "gameSeries": "Pokemon",
+        "head": "19070000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19070000-03840002.png",
+        "name": "Squirtle",
+        "release": {
+          "au": "2019-09-20",
+          "eu": "2019-09-20",
+          "jp": "2019-09-20",
+          "na": "2019-09-20"
+        },
+        "tail": "03840002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Pikachu",
+        "gameSeries": "Pokemon",
+        "head": "19190000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19190000-00090002.png",
+        "name": "Pikachu",
+        "release": {
+          "au": "2014-11-29",
+          "eu": "2014-11-28",
+          "jp": "2014-12-06",
+          "na": "2014-11-21"
+        },
+        "tail": "00090002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Jigglypuff",
+        "gameSeries": "Pokemon",
+        "head": "19270000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19270000-00260002.png",
+        "name": "Jigglypuff",
+        "release": {
+          "au": "2015-05-30",
+          "eu": "2015-05-29",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "00260002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Mewtwo",
+        "gameSeries": "Pokemon",
+        "head": "19960000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19960000-023d0002.png",
+        "name": "Mewtwo",
+        "release": {
+          "au": "2015-10-24",
+          "eu": "2015-10-23",
+          "jp": "2015-10-29",
+          "na": "2015-11-13"
+        },
+        "tail": "023d0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Pichu",
+        "gameSeries": "Pokemon",
+        "head": "19ac0000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19ac0000-03850002.png",
+        "name": "Pichu",
+        "release": {
+          "au": "2019-07-19",
+          "eu": "2019-07-19",
+          "jp": "2019-07-19",
+          "na": "2019-07-19"
+        },
+        "tail": "03850002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Lucario",
+        "gameSeries": "Pokemon",
+        "head": "1ac00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1ac00000-00110002.png",
+        "name": "Lucario",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-01-23",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00110002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Greninja",
+        "gameSeries": "Pokemon",
+        "head": "1b920000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1b920000-00250002.png",
+        "name": "Greninja",
+        "release": {
+          "au": "2015-05-30",
+          "eu": "2015-05-29",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "00250002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Incineroar",
+        "gameSeries": "Pokemon",
+        "head": "1bd70000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1bd70000-03860002.png",
+        "name": "Incineroar",
+        "release": {
+          "au": "2019-11-15",
+          "eu": "2019-11-15",
+          "jp": "2019-11-08",
+          "na": "2019-11-15"
+        },
+        "tail": "03860002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Pokemon",
+        "character": "Shadow Mewtwo",
+        "gameSeries": "Pokemon",
+        "head": "1d000001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1d000001-025c0d02.png",
+        "name": "Shadow Mewtwo",
+        "release": {
+          "au": "2016-03-19",
+          "eu": "2016-03-18",
+          "jp": "2016-03-18",
+          "na": "2016-03-18"
+        },
+        "tail": "025c0d02",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Pokemon",
+        "character": "Detective Pikachu",
+        "gameSeries": "Pokemon",
+        "head": "1d010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1d010000-03750d02.png",
+        "name": "Detective Pikachu",
+        "release": {
+          "au": "2018-03-24",
+          "eu": "2018-03-23",
+          "jp": "2018-03-23",
+          "na": "2018-03-23"
+        },
+        "tail": "03750d02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Pokemon Trainer",
+        "gameSeries": "Pokemon",
+        "head": "1d400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1d400000-03870002.png",
+        "name": "Pokemon Trainer",
+        "release": {
+          "au": "2019-07-19",
+          "eu": "2019-07-19",
+          "jp": "2019-07-19",
+          "na": "2019-07-26"
+        },
+        "tail": "03870002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Kirby",
+        "gameSeries": "Kirby",
+        "head": "1f000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f000000-000a0002.png",
+        "name": "Kirby",
+        "release": {
+          "au": "2014-11-29",
+          "eu": "2014-11-28",
+          "jp": "2014-12-06",
+          "na": "2014-11-21"
+        },
+        "tail": "000a0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Kirby",
+        "character": "Kirby",
+        "gameSeries": "Kirby",
+        "head": "1f000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f000000-02540c02.png",
+        "name": "Kirby",
+        "release": {
+          "au": "2016-06-11",
+          "eu": "2016-06-10",
+          "jp": "2016-04-28",
+          "na": "2016-06-10"
+        },
+        "tail": "02540c02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Meta Knight",
+        "gameSeries": "Kirby",
+        "head": "1f010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f010000-00270002.png",
+        "name": "Meta Knight",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-02-20",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00270002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Kirby",
+        "character": "Meta Knight",
+        "gameSeries": "Kirby",
+        "head": "1f010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f010000-02550c02.png",
+        "name": "Meta Knight",
+        "release": {
+          "au": "2016-06-11",
+          "eu": "2016-06-10",
+          "jp": "2016-04-28",
+          "na": "2016-06-10"
+        },
+        "tail": "02550c02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "King Dedede",
+        "gameSeries": "Kirby",
+        "head": "1f020000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f020000-00280002.png",
+        "name": "King Dedede",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-02-20",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00280002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Kirby",
+        "character": "King Dedede",
+        "gameSeries": "Kirby",
+        "head": "1f020000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f020000-02560c02.png",
+        "name": "King Dedede",
+        "release": {
+          "au": "2016-06-11",
+          "eu": "2016-06-10",
+          "jp": "2016-04-28",
+          "na": "2016-06-10"
+        },
+        "tail": "02560c02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Kirby",
+        "character": "Waddle Dee",
+        "gameSeries": "Kirby",
+        "head": "1f030000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f030000-02570c02.png",
+        "name": "Waddle Dee",
+        "release": {
+          "au": "2016-06-11",
+          "eu": "2016-06-10",
+          "jp": "2016-04-28",
+          "na": "2016-06-10"
+        },
+        "tail": "02570c02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "BoxBoy!",
+        "character": "Qbby",
+        "gameSeries": "BoxBoy!",
+        "head": "1f400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_1f400000-035e1002.png",
+        "name": "Qbby",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2017-02-02",
+          "na": null
+        },
+        "tail": "035e1002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Marth",
+        "gameSeries": "Fire Emblem",
+        "head": "21000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21000000-000b0002.png",
+        "name": "Marth",
+        "release": {
+          "au": "2014-11-29",
+          "eu": "2014-11-28",
+          "jp": "2014-12-06",
+          "na": "2014-11-21"
+        },
+        "tail": "000b0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Ike",
+        "gameSeries": "Fire Emblem",
+        "head": "21010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21010000-00180002.png",
+        "name": "Ike",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-01-23",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00180002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Lucina",
+        "gameSeries": "Fire Emblem",
+        "head": "21020000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21020000-00290002.png",
+        "name": "Lucina",
+        "release": {
+          "au": "2015-04-25",
+          "eu": "2015-04-24",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "00290002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Robin",
+        "gameSeries": "Fire Emblem",
+        "head": "21030000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21030000-002a0002.png",
+        "name": "Robin",
+        "release": {
+          "au": "2015-04-25",
+          "eu": "2015-04-24",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "002a0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Roy",
+        "gameSeries": "Fire Emblem",
+        "head": "21040000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21040000-02520002.png",
+        "name": "Roy",
+        "release": {
+          "au": "2016-03-19",
+          "eu": "2016-03-18",
+          "jp": "2016-04-28",
+          "na": "2016-03-18"
+        },
+        "tail": "02520002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Corrin",
+        "gameSeries": "Fire Emblem",
+        "head": "21050000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21050000-025a0002.png",
+        "name": "Corrin",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "025a0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Corrin",
+        "gameSeries": "Fire Emblem",
+        "head": "21050100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21050100-03630002.png",
+        "name": "Corrin - Player 2",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "03630002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Fire Emblem",
+        "character": "Alm",
+        "gameSeries": "Fire Emblem",
+        "head": "21060000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21060000-03601202.png",
+        "name": "Alm",
+        "release": {
+          "au": "2017-05-20",
+          "eu": "2017-05-19",
+          "jp": "2017-04-20",
+          "na": "2017-05-19"
+        },
+        "tail": "03601202",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Fire Emblem",
+        "character": "Celica",
+        "gameSeries": "Fire Emblem",
+        "head": "21070000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21070000-03611202.png",
+        "name": "Celica",
+        "release": {
+          "au": "2017-05-20",
+          "eu": "2017-05-19",
+          "jp": "2017-04-20",
+          "na": "2017-05-19"
+        },
+        "tail": "03611202",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Fire Emblem",
+        "character": "Chrom",
+        "gameSeries": "Fire Emblem",
+        "head": "21080000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21080000-036f1202.png",
+        "name": "Chrom",
+        "release": {
+          "au": "2017-10-20",
+          "eu": "2017-10-20",
+          "jp": "2017-09-28",
+          "na": "2017-10-20"
+        },
+        "tail": "036f1202",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Chrom",
+        "gameSeries": "Fire Emblem",
+        "head": "21080000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21080000-03880002.png",
+        "name": "Chrom",
+        "release": {
+          "au": "2019-11-15",
+          "eu": "2019-11-15",
+          "jp": "2019-11-08",
+          "na": "2019-11-15"
+        },
+        "tail": "03880002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Fire Emblem",
+        "character": "Tiki",
+        "gameSeries": "Fire Emblem",
+        "head": "21090000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_21090000-03701202.png",
+        "name": "Tiki",
+        "release": {
+          "au": "2017-10-20",
+          "eu": "2017-10-20",
+          "jp": "2017-09-28",
+          "na": "2017-10-20"
+        },
+        "tail": "03701202",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Byleth",
+        "gameSeries": "Fire Emblem",
+        "head": "210b0000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_210b0000-03a50002.png",
+        "name": "Byleth",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "03a50002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Shulk",
+        "gameSeries": "Xenoblade",
+        "head": "22400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22400000-002b0002.png",
+        "name": "Shulk",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-02-20",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "002b0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Pyra",
+        "gameSeries": "Xenoblade",
+        "head": "22410000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22410000-041e0002.png",
+        "name": "Pyra",
+        "release": {
+          "au": "2023-07-21",
+          "eu": "2023-07-21",
+          "jp": "2023-07-21",
+          "na": "2023-07-21"
+        },
+        "tail": "041e0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Mythra",
+        "gameSeries": "Xenoblade",
+        "head": "22420000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22420000-041f0002.png",
+        "name": "Mythra",
+        "release": {
+          "au": "2023-07-21",
+          "eu": "2023-07-21",
+          "jp": "2023-07-21",
+          "na": "2023-07-21"
+        },
+        "tail": "041f0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Ness",
+        "gameSeries": "Earthbound",
+        "head": "22800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22800000-002c0002.png",
+        "name": "Ness",
+        "release": {
+          "au": "2015-04-25",
+          "eu": "2015-04-24",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "002c0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Lucas",
+        "gameSeries": "Earthbound",
+        "head": "22810000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22810000-02510002.png",
+        "name": "Lucas",
+        "release": {
+          "au": "2016-01-30",
+          "eu": "2016-01-29",
+          "jp": "2015-12-17",
+          "na": "2016-01-30"
+        },
+        "tail": "02510002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Chibi-Robo!",
+        "character": "Chibi-Robo",
+        "gameSeries": "Chibi Robo",
+        "head": "22c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22c00000-003a0202.png",
+        "name": "Chibi Robo",
+        "release": {
+          "au": "2015-11-07",
+          "eu": "2015-11-06",
+          "jp": "2015-10-08",
+          "na": "2015-10-09"
+        },
+        "tail": "003a0202",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Sonic",
+        "gameSeries": "Sonic",
+        "head": "32000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32000000-00300002.png",
+        "name": "Sonic",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-02-20",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00300002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Bayonetta",
+        "gameSeries": "Bayonetta",
+        "head": "32400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32400000-025b0002.png",
+        "name": "Bayonetta",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "025b0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Bayonetta",
+        "gameSeries": "Bayonetta",
+        "head": "32400100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_32400100-03640002.png",
+        "name": "Bayonetta - Player 2",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "03640002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "PAC-MAN",
+        "gameSeries": "Pac-man",
+        "head": "33400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_33400000-00320002.png",
+        "name": "Pac-Man",
+        "release": {
+          "au": "2015-04-25",
+          "eu": "2015-04-24",
+          "jp": "2015-04-29",
+          "na": "2015-05-29"
+        },
+        "tail": "00320002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Others",
+        "character": "Solaire of Astora",
+        "gameSeries": "Dark Souls",
+        "head": "33800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_33800000-03781402.png",
+        "name": "Solaire of Astora",
+        "release": {
+          "au": "2018-10-19",
+          "eu": "2018-10-19",
+          "jp": "2018-10-18",
+          "na": "2018-10-19"
+        },
+        "tail": "03781402",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Kazuya",
+        "gameSeries": "Tekken",
+        "head": "33c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_33c00000-04200002.png",
+        "name": "Kazuya",
+        "release": {
+          "au": "2023-01-13",
+          "eu": "2023-01-13",
+          "jp": "2023-01-13",
+          "na": "2023-01-13"
+        },
+        "tail": "04200002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Mega Man",
+        "gameSeries": "Megaman",
+        "head": "34800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-00310002.png",
+        "name": "Mega Man",
+        "release": {
+          "au": "2015-01-29",
+          "eu": "2015-02-20",
+          "jp": "2015-01-22",
+          "na": "2015-02-01"
+        },
+        "tail": "00310002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Mega Man",
+        "gameSeries": "Megaman",
+        "head": "34800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-02580002.png",
+        "name": "Mega Man - Gold Edition",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2016-02-23"
+        },
+        "tail": "02580002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Mega Man",
+        "character": "Mega Man",
+        "gameSeries": "Megaman",
+        "head": "34800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-03791502.png",
+        "name": "Mega Man",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2018-10-04",
+          "na": "2018-10-02"
+        },
+        "tail": "03791502",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Ryu",
+        "gameSeries": "Street fighter",
+        "head": "34c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c00000-02530002.png",
+        "name": "Ryu",
+        "release": {
+          "au": "2016-03-19",
+          "eu": "2016-03-18",
+          "jp": "2016-04-28",
+          "na": "2016-03-18"
+        },
+        "tail": "02530002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Ken",
+        "gameSeries": "Street fighter",
+        "head": "34c10000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34c10000-03890002.png",
+        "name": "Ken",
+        "release": {
+          "au": "2019-04-12",
+          "eu": "2019-04-12",
+          "jp": "2019-04-12",
+          "na": "2019-04-12"
+        },
+        "tail": "03890002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "One-Eyed Rathalos",
+        "gameSeries": "Monster Hunter",
+        "head": "35000100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35000100-02e10f02.png",
+        "name": "One-Eyed Rathalos and Rider - Male",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-10-08",
+          "na": null
+        },
+        "tail": "02e10f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "One-Eyed Rathalos",
+        "gameSeries": "Monster Hunter",
+        "head": "35000200",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35000200-02e20f02.png",
+        "name": "One-Eyed Rathalos and Rider - Female",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-10-08",
+          "na": null
+        },
+        "tail": "02e20f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Nabiru",
+        "gameSeries": "Monster Hunter",
+        "head": "35010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35010000-02e30f02.png",
+        "name": "Nabiru",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-10-08",
+          "na": null
+        },
+        "tail": "02e30f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Rathian",
+        "gameSeries": "Monster Hunter",
+        "head": "35020100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35020100-02e40f02.png",
+        "name": "Rathian and Cheval",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-12-08",
+          "na": null
+        },
+        "tail": "02e40f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Barioth",
+        "gameSeries": "Monster Hunter",
+        "head": "35030100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35030100-02e50f02.png",
+        "name": "Barioth and Ayuria",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-12-08",
+          "na": null
+        },
+        "tail": "02e50f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Qurupeco",
+        "gameSeries": "Monster Hunter",
+        "head": "35040100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35040100-02e60f02.png",
+        "name": "Qurupeco and Dan",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2016-12-08",
+          "na": null
+        },
+        "tail": "02e60f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Razewing Ratha",
+        "gameSeries": "Monster Hunter",
+        "head": "35050000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35050000-040c0f02.png",
+        "name": "Razewing Ratha",
+        "release": {
+          "au": "2021-07-09",
+          "eu": "2021-07-09",
+          "jp": "2021-07-09",
+          "na": "2021-07-09"
+        },
+        "tail": "040c0f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Ena",
+        "gameSeries": "Monster Hunter",
+        "head": "35060000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35060000-040d0f02.png",
+        "name": "Ena",
+        "release": {
+          "au": "2021-07-09",
+          "eu": "2021-07-09",
+          "jp": "2021-07-09",
+          "na": "2021-07-09"
+        },
+        "tail": "040d0f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter",
+        "character": "Tsukino",
+        "gameSeries": "Monster Hunter",
+        "head": "35070000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35070000-040e0f02.png",
+        "name": "Tsukino",
+        "release": {
+          "au": "2021-07-09",
+          "eu": "2021-07-09",
+          "jp": "2021-07-09",
+          "na": "2021-07-09"
+        },
+        "tail": "040e0f02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Magnamalo",
+        "gameSeries": "Monster Hunter",
+        "head": "35080000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35080000-040f1802.png",
+        "name": "Magnamalo",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "040f1802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Palico",
+        "gameSeries": "Monster Hunter",
+        "head": "35090000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35090000-04101802.png",
+        "name": "Palico",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "04101802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Palico",
+        "gameSeries": "Monster Hunter",
+        "head": "35090100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35090100-042b1802.png",
+        "name": "Palico",
+        "release": {
+          "au": "2022-06-30",
+          "eu": "2022-06-30",
+          "jp": "2022-06-30",
+          "na": "2022-06-30"
+        },
+        "tail": "042b1802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Palamute",
+        "gameSeries": "Monster Hunter",
+        "head": "350a0000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_350a0000-04111802.png",
+        "name": "Palamute",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "04111802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Palamute",
+        "gameSeries": "Monster Hunter",
+        "head": "350a0100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_350a0100-042c1802.png",
+        "name": "Palamute",
+        "release": {
+          "au": "2022-06-30",
+          "eu": "2022-06-30",
+          "jp": "2022-06-30",
+          "na": "2022-06-30"
+        },
+        "tail": "042c1802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Monster Hunter Rise",
+        "character": "Malzeno",
+        "gameSeries": "Monster Hunter",
+        "head": "350b0000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_350b0000-042d1802.png",
+        "name": "Malzeno",
+        "release": {
+          "au": "2022-06-30",
+          "eu": "2022-06-30",
+          "jp": "2022-06-30",
+          "na": "2022-06-30"
+        },
+        "tail": "042d1802",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Shovel Knight",
+        "character": "Shovel Knight",
+        "gameSeries": "Shovel Knight",
+        "head": "35c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35c00000-02500a02.png",
+        "name": "Shovel Knight",
+        "release": {
+          "au": "2015-12-11",
+          "eu": "2016-01-08",
+          "jp": "2016-06-30",
+          "na": "2016-01-08"
+        },
+        "tail": "02500a02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Shovel Knight",
+        "character": "Shovel Knight",
+        "gameSeries": "Shovel Knight",
+        "head": "35c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35c00000-03920a02.png",
+        "name": "Shovel Knight - Gold Edition",
+        "release": {
+          "au": null,
+          "eu": "2019-12-10",
+          "jp": null,
+          "na": "2019-12-10"
+        },
+        "tail": "03920a02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Shovel Knight",
+        "character": "Plague Knight",
+        "gameSeries": "Shovel Knight",
+        "head": "35c10000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35c10000-036c0a02.png",
+        "name": "Plague Knight",
+        "release": {
+          "au": null,
+          "eu": "2019-12-10",
+          "jp": null,
+          "na": "2019-12-10"
+        },
+        "tail": "036c0a02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Shovel Knight",
+        "character": "Specter Knight",
+        "gameSeries": "Shovel Knight",
+        "head": "35c20000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35c20000-036d0a02.png",
+        "name": "Specter Knight",
+        "release": {
+          "au": null,
+          "eu": "2019-12-10",
+          "jp": null,
+          "na": "2019-12-10"
+        },
+        "tail": "036d0a02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Shovel Knight",
+        "character": "King Knight",
+        "gameSeries": "Shovel Knight",
+        "head": "35c30000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_35c30000-036e0a02.png",
+        "name": "King Knight",
+        "release": {
+          "au": null,
+          "eu": "2019-12-10",
+          "jp": null,
+          "na": "2019-12-10"
+        },
+        "tail": "036e0a02",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Cloud Strife",
+        "gameSeries": "Final Fantasy",
+        "head": "36000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36000000-02590002.png",
+        "name": "Cloud",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "02590002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Cloud Strife",
+        "gameSeries": "Final Fantasy",
+        "head": "36000100",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36000100-03620002.png",
+        "name": "Cloud - Player 2",
+        "release": {
+          "au": "2017-07-22",
+          "eu": "2017-07-21",
+          "jp": "2017-07-21",
+          "na": "2017-07-21"
+        },
+        "tail": "03620002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Sephiroth",
+        "gameSeries": "Final Fantasy",
+        "head": "36010000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36010000-04210002.png",
+        "name": "Sephiroth",
+        "release": {
+          "au": "2023-01-13",
+          "eu": "2023-01-13",
+          "jp": "2023-01-13",
+          "na": "2023-01-13"
+        },
+        "tail": "04210002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Hero",
+        "gameSeries": "Dragon Quest",
+        "head": "36400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_36400000-03a20002.png",
+        "name": "Hero",
+        "release": {
+          "au": "2020-09-25",
+          "eu": "2020-09-25",
+          "jp": "2020-09-25",
+          "na": "2020-10-05"
+        },
+        "tail": "03a20002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Others",
+        "character": "Mario Cereal",
+        "gameSeries": "Kellogs",
+        "head": "37400001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37400001-03741402.png",
+        "name": "Super Mario Cereal",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2017-12-11"
+        },
+        "tail": "03741402",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Snake",
+        "gameSeries": "Metal Gear Solid",
+        "head": "37800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37800000-038a0002.png",
+        "name": "Snake",
+        "release": {
+          "au": "2019-09-20",
+          "eu": "2019-09-20",
+          "jp": "2019-09-20",
+          "na": "2019-09-20"
+        },
+        "tail": "038a0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Simon",
+        "gameSeries": "Castlevania",
+        "head": "37c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37c00000-038b0002.png",
+        "name": "Simon",
+        "release": {
+          "au": "2019-11-15",
+          "eu": "2019-11-15",
+          "jp": "2019-11-08",
+          "na": "2019-11-15"
+        },
+        "tail": "038b0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Richter",
+        "gameSeries": "Castlevania",
+        "head": "37c10000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_37c10000-038c0002.png",
+        "name": "Richter",
+        "release": {
+          "au": "2020-01-17",
+          "eu": "2020-01-17",
+          "jp": "2020-01-17",
+          "na": "2020-01-17"
+        },
+        "tail": "038c0002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Pawapuro",
+        "gameSeries": "Power Pros",
+        "head": "38000001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38000001-03931702.png",
+        "name": "Pawapuro",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03931702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Ikari",
+        "gameSeries": "Power Pros",
+        "head": "38010001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38010001-03941702.png",
+        "name": "Ikari",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03941702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Yabe",
+        "gameSeries": "Power Pros",
+        "head": "38020001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38020001-03951702.png",
+        "name": "Yabe",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03951702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Hayakawa",
+        "gameSeries": "Power Pros",
+        "head": "38030001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38030001-03961702.png",
+        "name": "Hayakawa",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03961702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Ganda",
+        "gameSeries": "Power Pros",
+        "head": "38040001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38040001-03971702.png",
+        "name": "Ganda",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03971702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Power Pros",
+        "character": "Daijobu",
+        "gameSeries": "Power Pros",
+        "head": "38050001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38050001-03981702.png",
+        "name": "Daijobu",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": "2019-06-27",
+          "na": null
+        },
+        "tail": "03981702",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Yuga Ohdo",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38400001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38400001-04241902.png",
+        "name": "Yuga Ohdo",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04241902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Tatsuhisa “Luke” Kamijō",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38410001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38410001-04251902.png",
+        "name": "Tatsuhisa “Luke” Kamijō",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04251902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Gakuto Sōgetsu",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38420001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38420001-04261902.png",
+        "name": "Gakuto Sōgetsu",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04261902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Romin Kirishima",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38430001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38430001-04271902.png",
+        "name": "Romin Kirishima",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04271902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Roa Kirishima",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38440001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38440001-04281902.png",
+        "name": "Roa Kirishima",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04281902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Nail Saionji",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38450001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38450001-04291902.png",
+        "name": "Nail Saionji",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "04291902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Yu-Gi-Oh!",
+        "character": "Asana Mutsuba",
+        "gameSeries": "Yu-Gi-Oh!",
+        "head": "38460001",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38460001-042a1902.png",
+        "name": "Asana Mutsuba",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2021-08-12"
+        },
+        "tail": "042a1902",
+        "type": "Card"
+      },
+      {
+        "amiiboSeries": "Diablo",
+        "character": "Loot Goblin",
+        "gameSeries": "Diablo",
+        "head": "38c00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_38c00000-03911602.png",
+        "name": "Loot Goblin",
+        "release": {
+          "au": null,
+          "eu": null,
+          "jp": null,
+          "na": "2018-12-21"
+        },
+        "tail": "03911602",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Joker",
+        "gameSeries": "Persona",
+        "head": "3a000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3a000000-03a10002.png",
+        "name": "Joker",
+        "release": {
+          "au": "2020-09-25",
+          "eu": "2020-09-25",
+          "jp": "2020-09-25",
+          "na": "2020-10-02"
+        },
+        "tail": "03a10002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Banjo",
+        "gameSeries": "Banjo Kazooie",
+        "head": "3b400000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3b400000-03a30002.png",
+        "name": "Banjo & Kazooie",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "03a30002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Terry",
+        "gameSeries": "Fatal Fury",
+        "head": "3c800000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3c800000-03a40002.png",
+        "name": "Terry",
+        "release": {
+          "au": "2021-03-26",
+          "eu": "2021-03-26",
+          "jp": "2021-03-26",
+          "na": "2021-03-26"
+        },
+        "tail": "03a40002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Steve",
+        "gameSeries": "Minecraft",
+        "head": "3dc00000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3dc00000-04220002.png",
+        "name": "Steve",
+        "release": {
+          "au": "2022-09-09",
+          "eu": "2022-09-09",
+          "jp": "2022-09-09",
+          "na": "2022-09-09"
+        },
+        "tail": "04220002",
+        "type": "Figure"
+      },
+      {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Alex",
+        "gameSeries": "Minecraft",
+        "head": "3dc10000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3dc10000-04230002.png",
+        "name": "Alex",
+        "release": {
+          "au": "2022-09-09",
+          "eu": "2022-09-09",
+          "jp": "2022-09-09",
+          "na": "2022-09-09"
+        },
+        "tail": "04230002",
+        "type": "Figure"
       }
-     
     ]
   }
