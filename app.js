@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
                 amiiboContainer.innerHTML = "";
 
-                amiiboData.forEach(amiibo => {
+                amiiboData.amiibo.forEach(amiibo => {
                     if((filterValue === "all" || (filterValue === "liked" && amiibo.liked)) &&
                         (amiibo.name.toLowerCase().includes(searchValue) || searchValue === "")) {
                          renderAmiibo(amiibo);
