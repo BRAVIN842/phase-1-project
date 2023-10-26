@@ -1,4 +1,7 @@
 # phase-1-project
+
+AUTHOR : BRAVIN ONSASE
+
 This web app helps users:
 1. search for nintendo game characters .
 2. like them and be able to comment on them.
