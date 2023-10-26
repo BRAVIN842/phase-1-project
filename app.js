@@ -79,12 +79,15 @@ document.addEventListener("DOMContentLoaded",()=>{
 
                 amiiboContainer.innerHTML = "";
 
-                amiiboData.forEach(amiibo => {
-                    if((filterValue === "all" || (filterValue === "liked" && amiibo.liked)) &&
-                        (amiibo.name.toLowerCase().includes(searchValue) || searchValue === "")) {
-                         renderAmiibo(amiibo);
+                amiiboData.amiibo.forEach(amiibo => {
+                    if (
+                        (filterValue === "all" || (filterValue === "liked" && amiibo.liked)) &&
+                        (amiibo.name.toLowerCase().includes(searchValue) || searchValue === "")
+                    ) {
+                        renderAmiibo(amiibo);
                     }
                 });
+                
             }
 
             //Initial rendering
